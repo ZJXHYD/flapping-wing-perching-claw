@@ -49,7 +49,7 @@ After completing the CAD design, a prototype was fabricated using **3D printing*
 
 ## Annotated Mechanism Diagram
 
-![Perching Claw Mechanism](perching_claw.png)
+![Perching Claw Mechanism](perching_claw.png.png)
 
 ---
 
